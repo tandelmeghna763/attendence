@@ -1,0 +1,48 @@
+/* SignupForm.css */
+.pass {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 200px;
+    background-color: rgba(127, 255, 212, 0.192);
+}
+
+.pass h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.pass input[type='UserId'],
+.pass input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.pass a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.pass a:hover {
+    text-decoration: underline;
+}

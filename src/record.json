@@ -1,0 +1,202 @@
+[
+    {
+        "UserId": "202103103510001",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "A",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "P"
+    },
+    {
+        "UserId": "202103103510002",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "P",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "A",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510003",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "A",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510004",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "P",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510005",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "P",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "P"
+    },
+    {
+        "UserId": "202103103510006",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "A",
+        "02-Jan": "P",
+        "03-Jan": "A",
+        "04-Jan": "A",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510007",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "A",
+        "02-Jan": "A",
+        "03-Jan": "A",
+        "04-Jan": "A",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510008",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "P",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510009",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "A",
+        "02-Jan": "P",
+        "03-Jan": "A",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "2021031035100010",
+        "Password": "1000",
+        "SubjectName": "Software Engineering",
+        "01-Jan": "A",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510001",
+        "Password": "1000",
+        "SubjectName": "Full Stack Devleopment",
+        "01-Jan": "A",
+        "02-Jan": "A",
+        "03-Jan": "A",
+        "04-Jan": "P",
+        "05-Jan": "P"
+    },
+    {
+        "UserId": "202103103510002",
+        "Password": "1000",
+        "SubjectName": "Full Stack Devleopment",
+        "01-Jan": "A",
+        "02-Jan": "A",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510003",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "P",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "A",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510004",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "P",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "A",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510005",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "P",
+        "02-Jan": "A",
+        "03-Jan": "P",
+        "04-Jan": "A",
+        "05-Jan": "P"
+    },
+    {
+        "UserId": "202103103510006",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "A",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "P"
+    },
+    {
+        "UserId": "202103103510007",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "A",
+        "02-Jan": "A",
+        "03-Jan": "P",
+        "04-Jan": "A",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510008",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "A",
+        "02-Jan": "P",
+        "03-Jan": "A",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "202103103510009",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "A",
+        "02-Jan": "A",
+        "03-Jan": "A",
+        "04-Jan": "P",
+        "05-Jan": "A"
+    },
+    {
+        "UserId": "2021031035100010",
+        "Password": "1000",
+        "SubjectName": "Full Stack Development",
+        "01-Jan": "P",
+        "02-Jan": "P",
+        "03-Jan": "P",
+        "04-Jan": "P",
+        "05-Jan": "P"
+    }
+]

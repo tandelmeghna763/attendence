@@ -1,0 +1,53 @@
+/* LoginForm.css */
+.login {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(127, 255, 212, 0.192);
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+}
+
+.login h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.login input[type='userid'],
+.login input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+
+.login input[type='submit']:hover {
+    background-color: #0056b3;
+}
+
+.login a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.login a:hover {
+    text-decoration: underline;
+}
